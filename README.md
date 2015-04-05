@@ -5,4 +5,4 @@ LARAVEL Migrations y Seeders con provincias y ciudades de Argentina. La informac
 Las ciudades están todas geo referenciadas con latitudo y longitud. 
 
 
-Por comentarios y pedidos, utilizar el Issue Tracker de GitHub. 
+Por comentarios y pedidos, utilizar el [Issue Tracker](https://github.com/fferreri/Provincias_y_ciudades_Argentina/issues) de GitHub.
